@@ -5627,12 +5627,12 @@ tfoot {
   padding-bottom: 3em;
 }
 .padding-medium {
-  padding-top: 4.5em;
-  padding-bottom: 4.5em;
+  padding-top: 1em;
+  padding-bottom: 1em;
 }
 .padding-large {
-  padding-top: 6em;
-  padding-bottom: 6em;
+  padding-top: 0em;
+  padding-bottom: 0em;
 }
 .padding-xlarge {
   padding-top: 7.5em;

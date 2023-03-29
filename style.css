@@ -242,7 +242,7 @@ html {
 }
 body {
   font-family: PT Sans, Lato,sans-serif;
-  font-size: 19px;
+  font-size: 14px;
   line-height: 1.8;
   color: #555;
 }
@@ -6427,7 +6427,7 @@ tfoot {
 }
 .blog-content {
   position: absolute;
-  top: 10%;
+  top: 3%;
   z-index: 3;
   right: 40%;
 }

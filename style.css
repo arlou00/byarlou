@@ -6427,9 +6427,9 @@ tfoot {
 }
 .blog-content {
   position: absolute;
-  top: 1%;
+  top: 0%;
   z-index: 3;
-  right: 40%;
+  right: 13%;
 }
 .bg {
   width: 100%;
